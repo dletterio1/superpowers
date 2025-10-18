@@ -1,2 +1,4 @@
 .worktrees/
 .private-journal/
+config.bat
+node_modules
